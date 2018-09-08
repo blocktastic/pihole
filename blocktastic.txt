@@ -6,7 +6,7 @@ adztec.com
 brightcove.com
 brightcove.net
 adzuna-jobbox.fairfaxmedia.com.au
-carto.com
+fairfax-data.carto.com
 bugmuncher.com
 confirmsubscription.com
 guoshipartners.com
