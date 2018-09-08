@@ -1,3 +1,26 @@
+
+#####################
+# Ads
+#####################
+adztec.com
+brightcove.com
+brightcove.net
+adzuna-jobbox.fairfaxmedia.com.au
+bugmuncher.com
+confirmsubscription.com
+guoshipartners.com
+onead.com.tw
+onevision.com
+popin.cc
+tenmax.io
+
+
+#####################
+# Phone Home
+#####################
+unifi-report.ubnt.com
+
+
 #####################
 # Telemetry sites
 #####################
