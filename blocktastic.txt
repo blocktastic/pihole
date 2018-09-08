@@ -1,0 +1,19 @@
+#####################
+# Telemetry sites
+#####################
+api.areametrics.com
+in.cuebiq.com
+et.intake.factual.com
+api.factual.com
+api.beaconsinspace.com
+api.huq.io
+m2m-api.inmarket.com
+mobileapi.mobiquitynetworks.com
+sdk.revealmobile.com
+api.safegraph.com
+incoming-data-sense360.s3.amazonaws.com
+ios-quinoa-personal-identify-prod.sense360eng.com
+ios-quinoa-events-prod.sense360eng.com
+ios-quinoa-high-frequency-events-prod.sense360eng.com
+v1.blueberry.cloud.databerries.com
+pie.wirelessregistry.com
