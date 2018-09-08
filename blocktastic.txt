@@ -13,12 +13,15 @@ onead.com.tw
 onevision.com
 popin.cc
 tenmax.io
+treasuredata.co.jp
+treasuredata.com
 
 
 #####################
 # Phone Home
 #####################
 unifi-report.ubnt.com
+sony.tv
 
 
 #####################
