@@ -1,2 +1,2 @@
 # pihole
-Pi-Hole Blocklist
+Pi-Hole Blocklist (https://pi-hole.net/)
