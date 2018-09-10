@@ -24,6 +24,16 @@ treasuredata.co.jp
 treasuredata.com
 
 
+
+#####################
+# Google Ads/Tracking
+#####################
+adservice.google.com
+adservice.google.com.au
+adservice.google.com.tw
+
+
+
 #####################
 # Phone Home
 #####################
