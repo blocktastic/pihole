@@ -39,6 +39,8 @@ stickyadstv.com
 dyntrk.com
 mopub.com
 sitemaji.com
+adziff.com
+adsafeprotected.com
 
 
 #####################
@@ -50,6 +52,7 @@ adservice.google.com.tw
 doubleclick.net
 googlesyndication.com
 googleadservices.com
+google-analytics.com
 
 
 #####################
@@ -61,8 +64,9 @@ sony.tv
 
 
 #####################
-# Telemetry sites
+# Telemetry/Analytics sites
 #####################
+va-endpoint.com
 beeketing.com
 flurry.com
 analytics.entertainmentbook.com.au
