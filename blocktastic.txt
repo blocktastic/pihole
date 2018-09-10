@@ -3,6 +3,11 @@
 # Suspicious
 #####################
 xeirmdgphdl.com
+trackcmp.net
+wishcomms.com
+juretho.com
+skgnompyiusim.com
+gkaatcjxwa.com
 
 
 #####################
@@ -22,8 +27,9 @@ popin.cc
 tenmax.io
 treasuredata.co.jp
 treasuredata.com
-api.growingio.com
-edge.sharethis.com
+sharethis.com
+jiathis.com
+adotmob.com
 
 
 #####################
@@ -46,6 +52,8 @@ sony.tv
 #####################
 # Telemetry sites
 #####################
+growingio.com
+abbi.io
 api.areametrics.com
 in.cuebiq.com
 et.intake.factual.com
