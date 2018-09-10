@@ -41,6 +41,10 @@ mopub.com
 sitemaji.com
 adziff.com
 adsafeprotected.com
+criteo.net
+cbox.ws
+easycounter.com
+hotjar.com
 
 
 #####################
