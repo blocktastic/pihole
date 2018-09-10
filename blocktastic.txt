@@ -8,6 +8,8 @@ wishcomms.com
 juretho.com
 skgnompyiusim.com
 gkaatcjxwa.com
+xurrehqawu.com
+agqguxbm.com
 
 
 #####################
@@ -56,6 +58,9 @@ sony.tv
 #####################
 # Telemetry sites
 #####################
+beeketing.com
+flurry.com
+analytics.entertainmentbook.com.au
 growingio.com
 abbi.io
 api.areametrics.com
