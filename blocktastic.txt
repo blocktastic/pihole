@@ -22,7 +22,8 @@ popin.cc
 tenmax.io
 treasuredata.co.jp
 treasuredata.com
-
+api.growingio.com
+edge.sharethis.com
 
 
 #####################
@@ -39,6 +40,7 @@ adservice.google.com.tw
 #####################
 unifi-report.ubnt.com
 sony.tv
+
 
 
 #####################
