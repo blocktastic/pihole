@@ -70,6 +70,7 @@ sony.tv
 #####################
 # Telemetry/Analytics sites
 #####################
+telemetry.malwarebytes.com
 va-endpoint.com
 beeketing.com
 flurry.com
