@@ -79,6 +79,7 @@ sony.tv
 #####################
 # Telemetry/Analytics sites
 #####################
+autopilothq.com
 crittercism.com
 firebaseio.com
 firebaseapp.com
