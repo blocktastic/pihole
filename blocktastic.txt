@@ -99,6 +99,7 @@ factual.com
 firebaseapp.com
 firebaseio.com
 flurry.com
+geoip.nekudo.com
 go-mpulse.net
 growingio.com
 huq.io
