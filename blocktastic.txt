@@ -75,6 +75,14 @@ iadsdk.apple.com
 metrics.icloud.com
 
 
+
+#####################
+# Browser Telemetry
+#####################
+telemetry.mozilla.org
+
+
+
 #####################
 # Phone Home
 #####################
