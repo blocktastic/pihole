@@ -60,6 +60,13 @@ google-analytics.com
 
 
 #####################
+# Apple Ads/Tracking
+#####################
+iadsdk.apple.com
+metrics.icloud.com
+
+
+#####################
 # Phone Home
 #####################
 unifi-report.ubnt.com
