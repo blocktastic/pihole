@@ -31,6 +31,7 @@ bugmuncher.com
 cbox.ws
 confirmsubscription.com
 criteo.net
+disqusads.com
 dyntrk.com
 easycounter.com
 fairfax-data.carto.com
