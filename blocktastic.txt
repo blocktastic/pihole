@@ -84,6 +84,7 @@ sony.tv
 #####################
 # Telemetry/Analytics sites
 #####################
+appsflyer.com
 abbi.io
 adjust.com
 analytics.entertainmentbook.com.au
