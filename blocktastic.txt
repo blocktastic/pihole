@@ -70,6 +70,8 @@ sony.tv
 #####################
 # Telemetry/Analytics sites
 #####################
+traffic.alexa.com
+trackcmp.net
 telemetry.malwarebytes.com
 va-endpoint.com
 beeketing.com
