@@ -79,6 +79,7 @@ sony.tv
 #####################
 # Telemetry/Analytics sites
 #####################
+crittercism.com
 firebaseio.com
 firebaseapp.com
 urbanairship.com
