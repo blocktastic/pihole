@@ -81,7 +81,6 @@ doubleclick.net
 dpm.demdex.net
 ds-aksb-a.akamaihd.net
 dyntrk.com
-dyntrk.com
 e.crashlytics.com
 easycounter.com
 et.intake.factual.com
