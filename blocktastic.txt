@@ -51,6 +51,9 @@ beeketing.com
 bridgewell.com
 brightcove.com
 brightcove.net
+edge.api.brightcove.com
+players.brightcove.net.edgekey.net
+players.brightcove.net
 bugmuncher.com
 capture.condenastdigital.com
 cbox.ws
