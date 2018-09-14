@@ -24,6 +24,8 @@ analytics.snidigital.com
 analytics.twitter.com
 android.clients.google.com
 anz.sc.omtrdc.net
+api-analytics-bootstrap.metaps.com
+api-analytics.metaps.com
 api.apsmediaagency.com
 api.areametrics.com
 api.areametrics.com
