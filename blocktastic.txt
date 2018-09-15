@@ -147,6 +147,7 @@ imasdk.googleapis.com
 img.sedoparking.com
 in.cuebiq.com
 in.treasuredata.com
+incoming.telemetry.mozilla.org
 incoming-data-sense360.s3.amazonaws.com
 infinityid.condenastdigital.com
 inmarket.com
