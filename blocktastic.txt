@@ -89,6 +89,8 @@ cedexis.net
 certify-amp.alexametrics.com
 cf.iadsdk.apple.com
 clicktalecdn.sslcs.cdngc.net
+app-au.clickdimensions.com
+analytics-au.clickdimensions.com
 clients1.google.com
 cm.g.doubleclick.net
 code.adsales.snidigital.com
