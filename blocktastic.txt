@@ -284,3 +284,14 @@ z-na.amazon-adsystem.com
 zdbb.net
 www.adsmore.cc
 adsmore.cc
+cdn-adn-https.rayjump.com
+cl.s7.exct.net
+device-provisioning.googleapis.com
+hybird.rayjump.com
+lojuxbnt.com
+net.rayjump.com
+setting.rayjump.com
+sg01.rayjump.com
+sync.adotmob.com
+tnlshxmc.com
+us01.rayjump.com
