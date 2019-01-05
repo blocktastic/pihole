@@ -178,6 +178,7 @@ links.services.disqus.com
 log.pinterest.com
 lptag.liveperson.net
 lvctzafuvn.com
+mab.chartbeat.com
 m2m-api.inmarket.com
 meraxes-cdn.polarmobile.com
 metrics.brightcove.com
