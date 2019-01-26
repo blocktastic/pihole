@@ -20,6 +20,7 @@ ad.sitemaji.com
 adjust.com
 adotmob.com
 ads.supplyframe.com
+ads.yieldmo.com
 adsafeprotected.com
 adservice.google.com
 adservice.google.com.au
