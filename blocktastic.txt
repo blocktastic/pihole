@@ -65,6 +65,7 @@ b-api.facebook.com
 b.stats.paypal.com
 bat.bing.com
 beeketing.com
+braze.com
 bridgewell.com
 brightcove.com
 brightcove.net
