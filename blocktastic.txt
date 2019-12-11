@@ -172,6 +172,7 @@ jiathis.com
 js-sec.indexww.com
 js1.bloggerads.net
 juretho.com
+kampyle.com
 karma.mdpcdn.com
 klzvkrzluqnx.com
 kqohskoysgxx.com
@@ -223,6 +224,8 @@ s.infogr.am
 s.infogram.com
 s1.wp.com
 safegraph.com
+screencapture.kampyle.com
+screencaptue-cdn.kampyle.com
 scripts.mediavine.com
 scupio.com
 sdk.revealmobile.com
