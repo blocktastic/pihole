@@ -224,7 +224,6 @@ rpxnow.com
 rules.quantcount.com
 s.infogr.am
 s.infogram.com
-s1.wp.com
 safegraph.com
 screencapture.kampyle.com
 screencaptue-cdn.kampyle.com
