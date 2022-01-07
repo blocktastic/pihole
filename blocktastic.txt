@@ -304,3 +304,9 @@ sg01.rayjump.com
 sync.adotmob.com
 tnlshxmc.com
 us01.rayjump.com
+
+#########
+# Block public DNS servers
+#########
+dns.google.com
+
